@@ -1,6 +1,7 @@
 # PrimosParalelo
 # Equipe
-Alexandre Del Raso Filho
+
+Alexandre Del Raso Filho e
 Victor Martinez Lopo
 
 ![image](https://github.com/lopo-victor/PrimosParalelo/assets/126673325/7b9e41e0-a9a6-4dbe-b7ce-0b6c77768014)
