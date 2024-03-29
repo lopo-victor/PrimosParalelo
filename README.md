@@ -1,9 +1,11 @@
 # PrimosParalelo
 
-O propósito deste projeto consiste em criar um software que empregue a técnica de programação paralela para examinar números primos em um documento. O software irá ler um arquivo de entrada e processá-lo para identificar os números primos contidos. Posteriormente, a lista resultante dos números primos será registrada em um arquivo de saída, mantendo a mesma sequência do arquivo original. 
-Desenvolvemos três implementações diferentes:
+O propósito deste projeto consiste em criar um software que empregue a técnica de programação paralela para examinar números primos em um documento. O software irá ler um arquivo de entrada e processá-lo para identificar os números primos contidos. Posteriormente, a lista resultante dos números primos será registrada em um arquivo de saída, mantendo a mesma sequência do arquivo original. Desenvolvemos três implementações diferentes:
+
 1- Implementação usando o modelo de programação sequencial (uma thread)
+
 2- Implementação de um modelo de programação paralela usando 5 threads
+
 3- Implementação de um modelo de programação paralela usando 10 threads
 
 
