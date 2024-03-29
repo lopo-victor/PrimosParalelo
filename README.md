@@ -1,5 +1,5 @@
 # PrimosParalelo
-#Equipe
+# Equipe
 Alexandre Del Raso Filho
 Victor Martinez Lopo
 
