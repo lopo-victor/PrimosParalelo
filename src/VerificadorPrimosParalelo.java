@@ -5,7 +5,7 @@ public class VerificadorPrimosParalelo {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();
         String arquivoEntrada = "dados/Entrada01.txt";
-        String arquivoSaida = "dados/saida.txt";
+        String arquivoSaida = "";
         int numThreads = 10; // Número de threads para processamento
 
         try {
